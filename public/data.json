@@ -6,8 +6,8 @@
     "rating": 9.8,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm medium",
-    "price": 1500000,
-    "playerImg": "https://example.com/images/virat-kohli.jpg"
+    "price": 1500,
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
     "playerName": "Babar Azam",
@@ -16,8 +16,8 @@
     "rating": 9.5,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1200000,
-    "playerImg": "https://example.com/images/babar-azam.jpg"
+    "price": 1200,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjL5gQHQexKMWK_KcoywrjaIhGvt4-MlqRNXGFUFHtg&s=10"
   },
   {
     "playerName": "Ben Stokes",
@@ -26,8 +26,8 @@
     "rating": 9.6,
     "battingStyle": "Left-hand bat",
     "bowlingStyle": "Right-arm fast-medium",
-    "price": 1400000,
-    "playerImg": "https://example.com/images/ben-stokes.jpg"
+    "price": 1400,
+    "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/10130.png"
   },
   {
     "playerName": "Kane Williamson",
@@ -36,8 +36,8 @@
     "rating": 9.4,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1100000,
-    "playerImg": "https://example.com/images/kane-williamson.jpg"
+    "price": 1100,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWAu77c_kdoxbHcH7re-s6R3DyELjcfhMo2pSapikbrA&s=10"
   },
   {
     "playerName": "Steve Smith",
@@ -46,8 +46,8 @@
     "rating": 9.3,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Legbreak googly",
-    "price": 1150000,
-    "playerImg": "https://example.com/images/steve-smith.jpg"
+    "price": 1150,
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/288/1075-bbl.png"
   },
   {
     "playerName": "Rashid Khan",
@@ -56,47 +56,37 @@
     "rating": 9.7,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Legbreak googly",
-    "price": 1300000,
-    "playerImg": "https://example.com/images/rashid-khan.jpg"
+    "price": 13000000,
+    "playerImg": "https://static-files.cricket-australia.pulselive.com/headshots/288/272-camedia.png"
   },
   {
-    "playerName": "Shaheen Afridi",
-    "playerCountry": "Pakistan",
-    "playerType": "Bowler",
-    "rating": 9.5,
-    "battingStyle": "Left-hand bat",
-    "bowlingStyle": "Left-arm fast",
-    "price": 1250000,
-    "playerImg": "https://example.com/images/shaheen-afridi.jpg"
-  },
-  {
-    "playerName": "Jasprit Bumrah",
+    "playerName": "Virat Kohli",
     "playerCountry": "India",
-    "playerType": "Bowler",
+    "playerType": "Batsman",
     "rating": 9.8,
     "battingStyle": "Right-hand bat",
-    "bowlingStyle": "Right-arm fast",
-    "price": 1450000,
-    "playerImg": "https://example.com/images/jasprit-bumrah.jpg"
+    "bowlingStyle": "Right-arm medium",
+    "price": 1500,
+    "playerImg": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Virat_Kohli_during_the_India_vs_Aus_4th_Test_match_at_Narendra_Modi_Stadium_on_09_March_2023.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=original"
   },
   {
-    "playerName": "Glenn Maxwell",
-    "playerCountry": "Australia",
-    "playerType": "All-rounder",
-    "rating": 9.2,
+    "playerName": "Babar Azam",
+    "playerCountry": "Pakistan",
+    "playerType": "Batsman",
+    "rating": 9.5,
     "battingStyle": "Right-hand bat",
     "bowlingStyle": "Right-arm offbreak",
-    "price": 1050000,
-    "playerImg": "https://example.com/images/glenn-maxwell.jpg"
+    "price": 1200,
+    "playerImg": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNjL5gQHQexKMWK_KcoywrjaIhGvt4-MlqRNXGFUFHtg&s=10"
   },
   {
-    "playerName": "Jos Buttler",
+    "playerName": "Ben Stokes",
     "playerCountry": "England",
-    "playerType": "Wicketkeeper Batsman",
+    "playerType": "All-rounder",
     "rating": 9.6,
-    "battingStyle": "Right-hand bat",
-    "bowlingStyle": "None",
-    "price": 1350000,
-    "playerImg": "https://example.com/images/jos-buttler.jpg"
+    "battingStyle": "Left-hand bat",
+    "bowlingStyle": "Right-arm fast-medium",
+    "price": 1400,
+    "playerImg": "https://images.icc-cricket.com/image/upload/t_player-headshot-portrait-lg-webp/prd/assets/players/generic/colored/10130.png"
   }
 ]
